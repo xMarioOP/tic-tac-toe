@@ -11,9 +11,6 @@ Tic-Tac-Toe is a classic 3x3 grid game where two players take turns marking the 
 - **Winning conditions**: Horizontal, vertical, and diagonal winning combinations are detected.
 - **Responsive Design**: Play the game on any device with an adaptive layout.
 
-## 📱 Preview
-![Tic-Tac-Toe Preview](https://via.placeholder.com/600x300?text=Tic-Tac-Toe+Game+Preview)
-
 ## 🛠️ Technologies Used
 - HTML
 - CSS
